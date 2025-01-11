@@ -1,0 +1,10 @@
+.flex-container {
+    display: flex;
+    background-color: rgba(216, 156, 232, 0.58);
+  }
+  
+  .flex-container > div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    fon
