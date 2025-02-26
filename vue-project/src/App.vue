@@ -6,6 +6,8 @@
     <food-item2/> <br>
     <food-item/> <br>
     <food-item2/> <br>
+    <personal-profile/> <br>
+
  </template>
     
   <style></style>
